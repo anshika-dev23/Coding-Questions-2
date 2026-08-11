@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

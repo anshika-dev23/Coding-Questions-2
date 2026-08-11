@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
@@ -61,6 +62,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

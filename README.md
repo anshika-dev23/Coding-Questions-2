@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
@@ -63,10 +64,20 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

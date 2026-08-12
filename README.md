@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
@@ -86,4 +88,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

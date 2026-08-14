@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

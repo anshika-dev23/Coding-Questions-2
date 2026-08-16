@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Tree
 |  |
@@ -73,6 +74,7 @@
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

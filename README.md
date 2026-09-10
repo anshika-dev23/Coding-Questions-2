@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

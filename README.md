@@ -133,6 +133,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0007-reverse-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

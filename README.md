@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |

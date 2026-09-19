@@ -135,9 +135,14 @@
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

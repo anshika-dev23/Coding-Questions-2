@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1108-defanging-an-ip-address) |
@@ -115,6 +116,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -128,5 +130,6 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [2235-add-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

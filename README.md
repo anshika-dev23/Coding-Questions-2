@@ -24,6 +24,7 @@
 | [0008-string-to-integer-atoi](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0008-string-to-integer-atoi) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1108-defanging-an-ip-address) |
@@ -84,6 +85,7 @@
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |

@@ -98,6 +98,7 @@
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

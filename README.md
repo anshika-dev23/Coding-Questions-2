@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0029-divide-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2235-add-two-integers) |
@@ -195,8 +197,13 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1672-richest-customer-wealth) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

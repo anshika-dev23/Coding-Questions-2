@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
@@ -86,6 +87,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
@@ -118,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -191,4 +192,8 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

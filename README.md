@@ -96,6 +96,7 @@
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -200,6 +202,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -210,6 +213,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |

@@ -17,6 +17,7 @@
 | [0724-find-pivot-index](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |

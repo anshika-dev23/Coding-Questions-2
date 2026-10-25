@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
 ## Quicksort
@@ -125,6 +128,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |

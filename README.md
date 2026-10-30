@@ -33,6 +33,7 @@
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0709-to-lower-case) |
@@ -171,6 +172,7 @@
 | [0029-divide-two-integers](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation

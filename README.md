@@ -42,6 +42,7 @@
 | [0709-to-lower-case](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Tree
@@ -146,6 +147,7 @@
 | [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -265,5 +267,6 @@
 | [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

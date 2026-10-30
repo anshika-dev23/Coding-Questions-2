@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1672-richest-customer-wealth) |
@@ -110,6 +111,7 @@
 | [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -239,4 +242,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

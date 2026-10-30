@@ -146,6 +146,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0856-score-of-parentheses) |
@@ -215,6 +216,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -275,4 +277,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

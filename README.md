@@ -30,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
@@ -132,11 +133,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
@@ -258,5 +261,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

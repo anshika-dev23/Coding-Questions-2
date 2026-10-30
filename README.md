@@ -40,6 +40,7 @@
 | [0680-valid-palindrome-ii](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Tree
 |  |
@@ -140,6 +141,7 @@
 | [0143-reorder-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -256,4 +258,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0704-binary-search) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -228,6 +230,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -297,4 +300,13 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

@@ -159,6 +159,7 @@
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -170,6 +171,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

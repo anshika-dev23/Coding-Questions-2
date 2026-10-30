@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0283-move-zeroes) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -290,4 +293,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0232-implement-queue-using-stacks) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

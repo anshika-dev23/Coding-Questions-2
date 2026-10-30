@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0907-sum-of-subarray-minimums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1480-running-sum-of-1d-array) |
@@ -146,6 +147,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
+| [0907-sum-of-subarray-minimums](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -172,6 +175,7 @@
 | [0496-next-greater-element-i](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0901-online-stock-span) |
+| [0907-sum-of-subarray-minimums](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
 | ------- |

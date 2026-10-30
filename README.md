@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0242-valid-anagram) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -246,4 +248,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshika-dev23/Coding-Questions-2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
